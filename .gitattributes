@@ -1,0 +1,7 @@
+# Disable Git LFS for all image types — serve as regular files
+*.jpg -lfs
+*.jpeg -lfs
+*.png -lfs
+*.gif -lfs
+*.webp -lfs
+*.avif -lfs
